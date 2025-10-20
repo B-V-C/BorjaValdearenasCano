@@ -1,3 +1,1 @@
 # BorjaValdearenasCano
-
-Hola
