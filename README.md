@@ -1,11 +1,11 @@
-👨‍💻 Borja Valdearenas Cano
-Técnico en Sistemas Microinformáticos y Redes
+<h1>👨‍💻 Borja Valdearenas Cano</h1>
+<h2>Técnico en Sistemas Microinformáticos y Redes</h2>
 
 📍 Granada, España
 
 💡 En formación como Desarrollador Web, con enfoque en sistemas, soporte técnico y tecnologías web modernas.
 
-🚀 Sobre mí
+<h3>🚀 Sobre mí</h3>
 
 Soy Técnico en Sistemas Microinformáticos y Redes, con experiencia en mantenimiento, redes y soporte técnico a usuarios.
 Me apasiona la informática, la resolución de problemas y la mejora continua de sistemas.
@@ -14,7 +14,7 @@ Actualmente estoy ampliando mi formación en Desarrollo Web, con el objetivo de 
 
 Me considero una persona responsable, organizada y con buena capacidad de trabajo en equipo, siempre orientada al aprendizaje continuo.
 
-🛠️ Tecnologías y competencias
+<h3>🛠️ Tecnologías y competencias</h3>
 
 Mantenimiento de hardware y software
 
@@ -28,8 +28,10 @@ Seguridad informática básica y actualización de sistemas
 
 Paquete Office Plus
 
-💼 Experiencia profesional
-🏫 Universidad de Granada
+<h3>💼 Experiencia profesional</h3>
+
+<b>🏫 Universidad de Granada</b>
+
 Prácticas — Técnico Informático
 
 📅 Marzo 2024 — Junio 2024
@@ -42,7 +44,7 @@ Instalación y configuración de sistemas operativos y software
 
 Gestión de copias de seguridad y control de seguridad informática
 
-🏢 PeraStore S.L
+<b>🏢 PeraStore S.L</b>
 Prácticas — Técnico Informático
 
 📅 Enero 2025 — Junio 2025
@@ -55,7 +57,7 @@ Instalación de sistemas, periféricos y software
 
 Configuración de redes locales y actualización de sistemas
 
-🏨 Sector Hostelería
+<b>🏨 Sector Hostelería</b>
 Camarero
 
 📅 2013 — Actualidad
@@ -68,7 +70,7 @@ Organización, responsabilidad y gestión de sala
 
 💡 Esta experiencia ha reforzado habilidades clave como comunicación, organización y gestión del tiempo.
 
-🎓 Formación
+<h3>🎓 Formación</h3>
 🎓 Técnico en Sistemas Microinformáticos y Redes
 
 I.E.S Zaidín Vergeles
