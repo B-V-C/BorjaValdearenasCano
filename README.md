@@ -5,3 +5,89 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Borja Valdearenas Cano — CV</title>
   <link rel="stylesheet" href="borja.css" />
+:root{
+  --accent:#2b6ea3;
+  --muted:#666;
+  --bg:#f8fafc;
+  --paper:#ffffff;
+  --sidebar:#eef6fb;
+  --maxw:980px;
+  --radius:8px;
+}
+
+*{box-sizing:border-box}
+body{
+  font-family: -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background:var(--bg);
+  color:#222;
+  margin:20px;
+  -webkit-font-smoothing:antialiased;
+}
+
+.container{
+  max-width:var(--maxw);
+  margin:0 auto;
+  display:grid;
+  grid-template-columns:280px 1fr;
+  gap:22px;
+  align-items:start;
+}
+
+/* Sidebar */
+.sidebar{
+  background:var(--sidebar);
+  padding:20px;
+  border-radius:var(--radius);
+  box-shadow:0 2px 6px rgba(15,23,42,0.05);
+}
+.profile h1{
+  font-size:26px;
+  margin:0 0 6px 0;
+  line-height:1.05;
+}
+.profile .surname{font-weight:600}
+.meta{color:var(--muted);font-size:13px;margin-top:6px}
+
+/* Sections */
+.sidebar section{margin-top:18px}
+.sidebar h2{
+  margin:0 0 8px 0;
+  font-size:14px;
+  color:var(--accent);
+  letter-spacing:0.6px;
+}
+.sidebar ul{padding-left:18px;margin:0}
+.sidebar table{width:100%;font-size:13px;color:var(--muted)}
+
+/* Main content */
+.content{
+  background:var(--paper);
+  padding:26px;
+  border-radius:var(--radius);
+  box-shadow:0 2px 10px rgba(11,20,40,0.04);
+}
+.content h2{
+  color:var(--accent);
+  margin-top:0;
+  font-size:18px;
+}
+.job{margin-bottom:16px;border-left:3px solid transparent;padding-left:12px}
+.job h3{margin:6px 0;font-size:16px}
+.period{color:var(--muted);font-size:13px;margin-bottom:8px}
+.job ul{margin:0;padding-left:18px}
+
+/* Responsive */
+@media (max-width:880px){
+  .container{grid-template-columns:1fr; padding:12px}
+  .sidebar{order:2}
+  .content{order:1}
+}
+.profile-photo {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 12px auto;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
